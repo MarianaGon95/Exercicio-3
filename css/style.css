@@ -1,0 +1,156 @@
+body{
+    background-color: rgb(110, 245, 255);
+}
+.cabecalho{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navegacao{
+    width: 940px;
+    height: 50px;
+    background-color: #e64a19;
+    margin-top: 40px;
+}
+
+.card{
+    width: 940px;
+    height: 560px;
+    background-color: #ffffff;
+    margin-top: 100px;
+    
+}
+
+.botao1{
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    left: 200px;
+    font-family: sans-serif;
+    color: white;
+}
+.botao2{
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    left: 250px;
+    font-family: sans-serif;
+    color: white;
+}
+.botao3{
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    left: 300px;
+    font-family: sans-serif;
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: 10px;
+    left: 195px;
+
+}
+.produto1{
+    width: 300px;
+    height: 169px;
+    background-color: rgb(136, 130, 146);
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.produto2{
+    width: 300px;
+    height: 169px;
+    background-color: rgb(247, 238, 238);
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.produto3{
+    width: 300px;
+    height: 169px;
+    background-color: rgb(109, 103, 197);
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.produto4{
+    width: 300px;
+    height: 169px;
+    background-color: red;
+    position: relative;
+    top: -557px;
+    left: 320px;
+}
+.produto5{
+    width: 300px;
+    height: 169px;
+    background-color: rgb(109, 81, 81);
+    position: relative;
+    top: -557px;
+    left: 320px;
+}
+.produto6{
+    width: 300px;
+    height: 169px;
+    background-color: rgb(36, 131, 57);
+    position: relative;
+    top: -557px;
+    left: 320px;
+}
+.produto7{
+    width: 300px;
+    height: 169px;
+    background-color: rgb(75, 69, 104);
+    position: relative;
+    top: -1122px;
+    left: 630px;
+}
+.produto8{
+    width: 300px;
+    height: 169px;
+    background-color: rgb(124, 61, 100);
+    position: relative;
+    top: -1122px;
+    left: 630px;
+}
+.produto9{
+    width: 300px;
+    height: 169px;
+    background-color: rgb(119, 146, 44);
+    position: relative;
+    top: -1122px;
+    left: 630px;
+}
+h2{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.137);
+    position: relative;
+    top: 80px;
+    
+}
+a{
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: #e64a19;
+    font-size: 20px;
+    color: white;
+    border: solid 5px #e64a19;
+    border-radius: 2px;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    
+}
+img{
+    position: absolute;
+}
